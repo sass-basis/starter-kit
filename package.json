@@ -1,0 +1,38 @@
+{
+  "author": "inc2734",
+  "license": "MIT",
+  "homepage": "https://sass-basis.github.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sass-basis/starter-kit"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "browser-sync": "^2.18.8",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-ejs": "^3.0.0",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rollup": "^2.11.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-uglify": "^2.1.2",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-commonjs": "^8.0.2",
+    "rollup-plugin-node-resolve": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "sass-basis": "^6.3.1",
+    "sass-basis-layout": "^7.0.1"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp build",
+    "start": "gulp"
+  }
+}
