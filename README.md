@@ -8,7 +8,7 @@ Basis starter project including gulp, Sass, Autoprefixer, rollup.js etc.
 
 ### Download from GitHub
 ```
-$ git clone https://github.com/inc2734/starter-kit.git
+$ git clone https://github.com/sass-basis/starter-kit.git
 $ cd starter-kit
 $ yarn install
 ```
